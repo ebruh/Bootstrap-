@@ -1,7 +1,7 @@
 ## wiki
 
 
-**ibrahim makaran
+**ibrahim makaran**
 
 
 ## Tech used
